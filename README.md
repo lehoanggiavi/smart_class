@@ -48,5 +48,5 @@ A short description of the project.
 
 ## Hướng dẫn cấu hình các folder cần thiết
 ### Models
-![D:/Smart_Class/smart_class/models.png]
+![Models](D:/Smart_Class/smart_class/models.png)
 
