@@ -12,27 +12,18 @@ A short description of the project.
 ├── LICENSE            <- Open-source license if one is chosen
 ├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
 ├── README.md          <- The top-level README for developers using this project.
-├── data
-│   ├── external       <- Data from third party sources.
-│   ├── interim        <- Intermediate data that has been transformed.
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
+├── Models
 │
-├── docs               <- A default mkdocs project; see www.mkdocs.org for details
+├── Person              
+│      
+├── Videos   
 │
-├── models             <- Trained and serialized models, model predictions, or model summaries
-│
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
+├── Identity  
+│                      
 │
 ├── pyproject.toml     <- Project configuration file with package metadata for 
 │                         src and configuration for tools like black
 │
-├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-│
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   └── figures        <- Generated graphics and figures to be used in reporting
 │
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
 │                         generated with `pip freeze > requirements.txt`
@@ -41,21 +32,21 @@ A short description of the project.
 │
 └── src   <- Source code for use in this project.
     │
-    ├── __init__.py             <- Makes src a Python module
+    ├── embedding_db.py            
     │
-    ├── config.py               <- Store useful variables and configuration
+    ├── main_with_real_time.py               
     │
-    ├── dataset.py              <- Scripts to download or generate data
+    ├── main_with_video.py              
     │
-    ├── features.py             <- Code to create features for modeling
-    │
-    ├── modeling                
-    │   ├── __init__.py 
-    │   ├── predict.py          <- Code to run model inference with trained models          
-    │   └── train.py            <- Code to train models
-    │
-    └── plots.py                <- Code to create visualizations
+    └── ui_handler.py               
 ```
 
 --------
+# Hướng Dẫn Xây Dựng Hệ Thống Phân Tích & Đánh Giá Cảm Xúc Trong Môi Trường Giáo Dục Ứng Dụng Trí Tuệ Nhân Tạo
+
+## Giới thiệu
+
+## Hướng dẫn cấu hình các folder cần thiết
+### Models
+![D:\Smart_Class\smart_class\models.png]
 
