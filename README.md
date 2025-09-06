@@ -77,6 +77,7 @@ A short description of the project.
 
 ## Quy trình hoạt động của hệ thống 
 ![Mô tả quy trình](system_process.png)
+- Data Classifier bạn có thể download ở đây[https://www.kaggle.com/datasets/giavi21/dacs-15k-image]
 
 # Liên hệ
 Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào thì liên hệ với mình qua Email:[lehoanggiavi21082004@gmail.com], [quynhanhnguyenngoc081@gmail.com], [hoangvu26104@gmail.com]
