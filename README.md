@@ -49,4 +49,8 @@ A short description of the project.
 ## Hướng dẫn cấu hình các folder cần thiết
 ### Models
 ![Models](models.jpg)
+- Bạn có thể download Models ở đây[https://www.kaggle.com/datasets/giavi21/models-service-smartclass]
+### Person
+![Person](person.png)
+- Bạn có thể download Person ở đây[https://www.kaggle.com/datasets/giavi21/person-service-smartclass]
 
