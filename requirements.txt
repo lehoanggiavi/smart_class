@@ -1,8 +1,9 @@
-loguru
-mkdocs
-pip
-python-dotenv
-ruff
-tqdm
-typer
--e .
+opencv-python   # Xử lý ảnh, đọc/ghi video, camera (cv2)
+torch           # PyTorch - deep learning framework
+numpy           # Tính toán số học, ma trận, mảng
+ultralytics     # Thư viện YOLO (object detection, segmentation, classification)
+deepface        # Nhận diện khuôn mặt, phân tích cảm xúc/tuổi/giới tính
+scipy           # Các hàm khoa học, khoảng cách (cosine, stats, ...)
+pickle-mixin    # (built-in) tuần tự hóa object, thường không cần cài thêm
+tensorflow      # Deep learning framework khác (song song với PyTorch)
+matplotlib      # Vẽ đồ thị, trực quan hóa dữ liệu
